@@ -14,8 +14,8 @@
 | 名称                                                 | 描述               |仓库|
 | :--------------------------------------------------- | :----------------- |:-|
 | [oclif](https://www.cosmolau.top/docs/oclif/zh/) | 开源 CLI 框架      |https://github.com/CosmoLau/oclif.github.io|
-| [husky](https://www.cosmolau.top/docs/husky/zh/) | Git 提交规范化工具 |https://github.com/CosmoLau/husky|
-| [Cocos Creator](https://www.cosmolau.top/docs/cocos/)    | 国产游戏引擎，本文档为官方手册的 VitePress 移植版       |https://github.com/CosmoLau/cocos-docs-vitepress|
+| [husky](https://www.cosmolau.top/husky/zh/) | Git 提交规范化工具 |https://github.com/CosmoLau/husky|
+| [Cocos Creator](https://cocos.cosmolau.top/)    | 国产游戏引擎，本文档为官方手册的 VitePress 移植版       |https://github.com/CosmoLau/cocos-docs-vitepress|
 
 **在制作以上文档时，同时也学习了这些 SSG 和框架：**
 
