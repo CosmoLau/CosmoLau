@@ -7,7 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/typescript-write?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
 ![Static Badge](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&color=%23F7DF1E)
 
-**我的个人博客：** www.cosmolau.top
+**我的个人博客：** https://blog.cosmolau.top
 
 我喜欢在学习新技术时，为没有中文翻译的技术文档进行翻译，以巩固技术。下面是一些我翻译的文档：
 
