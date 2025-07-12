@@ -28,6 +28,8 @@
 
 这款插件有[开源版本](https://github.com/CosmoLau/garbage-maker)，它使用 `oclif` 进行了重构，现在是一个真正的 `CLI`。
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68351623cf080f2a3218a236?variant=light)](https://roadmap.sh)
+
 <!--
 **CosmoLau/CosmoLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
