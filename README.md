@@ -16,6 +16,7 @@
 | [oclif](https://www.cosmolau.top/docs/oclif/zh/) | 开源 CLI 框架      |https://github.com/CosmoLau/oclif.github.io|
 | [husky](https://www.cosmolau.top/husky/zh/) | Git 提交规范化工具 |https://github.com/CosmoLau/husky|
 | [Cocos Creator](https://cocos.cosmolau.top/)    | 国产游戏引擎，本文档为官方手册的 VitePress 移植版       |https://github.com/CosmoLau/cocos-docs-vitepress|
+| [Aseprite](https://aseprite.cosmolau.top/) | [Aseprite](https://www.aseprite.org/) 像素画工具的非官方多语言版，基于 VitePress 搭建 | https://github.com/CosmoLau/aseprite-vitepress |
 
 **在制作以上文档时，同时也学习了这些 SSG 和框架：**
 
