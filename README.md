@@ -30,6 +30,8 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68351623cf080f2a3218a236?variant=light)](https://roadmap.sh)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31TPDA1)
+
 <!--
 **CosmoLau/CosmoLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
