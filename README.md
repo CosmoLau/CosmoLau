@@ -30,6 +30,10 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68351623cf080f2a3218a236?variant=light)](https://roadmap.sh)
 
+### 赞助
+
+[爱发电主页](https://www.ifdian.net/a/CosmoLau?utm_source=copylink&utm_medium=link)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31TPDA1)
 
 <!--
