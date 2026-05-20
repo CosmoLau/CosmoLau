@@ -32,7 +32,8 @@
 
 ### 赞助
 
-[![Static Badge](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5%E4%B8%BB%E9%A1%B5-9169e3)](https://www.ifdian.net/a/CosmoLau)
+[![Static Badge](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-CosmoLau-946CE6?logo=afdian&logoColor=FFFFFF&labelColor=946CE6&color=5d5d5d)
+](https://www.ifdian.net/a/CosmoLau)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31TPDA1)
 
